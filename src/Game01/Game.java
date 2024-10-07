@@ -1,7 +1,5 @@
 package Game01;
 
-import java.util.Scanner;
-
 public class Game {
     private int gameID;
 
